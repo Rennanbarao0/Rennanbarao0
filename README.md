@@ -1,4 +1,4 @@
-### Olá, eu sou o Rennan, um desenvolvedor FrontEnd apaixonado por tecnologia!
+### Olá, eu sou o Rennan, um desenvolvedor FullStack apaixonado por tecnologia!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rennan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
