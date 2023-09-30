@@ -1,4 +1,18 @@
-### Olá, eu sou o Rennan, um desenvolvedor FullStack apaixonado por tecnologia!
+Minha paixão pelo desenvolvimento backend foi acendida durante meus primeiros projetos em front-end, onde percebi a beleza e complexidade da lógica e das regras de negócio por trás das aplicações. Ao ingressar na Cactus System, uma softhouse de Natal/RN, tive a oportunidade de me imergir em projetos backend de alta complexidade e escalabilidade, utilizando predominantemente Node.js com TypeScript e SQL Server, ocasionalmente tocando em front-end com Vue.js. Essa experiência foi fundamental para aprofundar meus conhecimentos e habilidades na área.
+
+Iniciei a faculdade de Análise e Desenvolvimento de Sistemas em março de 2023 e busquei complementar minha formação com cursos práticos e teóricos em plataformas como Alura e DIO. Essa combinação de aprendizado formal e prático tem sido vital para o desenvolvimento de minhas habilidades técnicas, que incluem JavaScript, TypeScript, Node.js, Vue.js, SQL Server, MySQL, C# e .NET, entre outros.
+
+No projeto [Decola Juninho](https://www.linkedin.com/company/decola-juninho/mycompany/), um espaço para ajudar jovens a ingressarem no mercado de TI, minhas habilidades técnicas e de comunicação foram reconhecidas, permitindo-me liderar a equipe de desenvolvimento. Este trabalho voluntário tem sido uma jornada inspiradora, aplicando minhas habilidades em um contexto que alinha tecnologia e impacto social.
+
+Um dos maiores desafios que enfrentei foi trabalhar com um sistema legado de clínicas e hospitais, implementando funcionalidades como videoconferência e gestão de medicamentos. Apesar de os projetos ainda estarem em construção, cada passo é uma vitória e um aprendizado.
+
+Manter-me atualizado é uma prioridade; dedico-me a estudar diariamente, explorando novas tecnologias, boas práticas e contribuindo para projetos open source. Além das habilidades técnicas, valorizo soft skills como trabalho em equipe, comunicação e liderança.
+
+Olhando para o futuro, aspiro a continuar crescendo, contribuindo para projetos de alta escalabilidade e tornando-me uma referência na área de backend, tanto em contextos nacionais quanto internacionais.
+
+<!--    
+
+### Olá, eu sou o Rennan, um desenvolvedor BackEnd apaixonado por tecnologia!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rennan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,3 +42,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennanbarao0&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rennanbarao0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+
+->
