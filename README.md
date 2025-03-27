@@ -2,8 +2,6 @@ Sou um desenvolvedor backend em início de carreira, com experiência em Node.js
 
 Minha jornada na tecnologia começou com estudos autodidatas e projetos acadêmicos, e desde então venho aprimorando minhas habilidades no desenvolvimento de APIs e sistemas backend. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) e continuo me capacitando por meio de cursos e projetos práticos.
 
-🔹 Principais habilidades: Node.js, TypeScript, C#, .NET, SQL Server, API Development
-🔹 Interesses: Arquitetura de Software | Escalabilidade | Cloud Computing | Modernização de Sistemas
 
 ### GitHub Stats ⚡
 <div>
