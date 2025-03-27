@@ -1,14 +1,9 @@
-Minha paixão pelo desenvolvimento backend foi acendida durante meus primeiros projetos em front-end, onde percebi a beleza e complexidade da lógica e das regras de negócio por trás das aplicações. Ao ingressar na Cactus System, uma softhouse de Natal/RN, tive a oportunidade de me imergir em projetos backend de alta complexidade e escalabilidade, utilizando predominantemente Node.js com TypeScript e SQL Server, ocasionalmente tocando em front-end com Vue.js. Essa experiência foi fundamental para aprofundar meus conhecimentos e habilidades na área.
+Sou um desenvolvedor backend em início de carreira, com experiência em Node.js, TypeScript, C#, .NET e SQL Server. Tenho interesse em arquitetura escalável, clean code e modernização de sistemas legados, buscando sempre melhorar a performance e a qualidade do código.
 
-Iniciei a faculdade de Análise e Desenvolvimento de Sistemas em março de 2023 e busquei complementar minha formação com cursos práticos e teóricos em plataformas como Alura e DIO. Essa combinação de aprendizado formal e prático tem sido vital para o desenvolvimento de minhas habilidades técnicas, que incluem JavaScript, TypeScript, Node.js, Vue.js, SQL Server, MySQL, C# e .NET, entre outros.
+Minha jornada na tecnologia começou com estudos autodidatas e projetos acadêmicos, e desde então venho aprimorando minhas habilidades no desenvolvimento de APIs e sistemas backend. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) e continuo me capacitando por meio de cursos e projetos práticos.
 
-No projeto [Decola Juninho](https://www.linkedin.com/company/decola-juninho/mycompany/), um espaço para ajudar jovens a ingressarem no mercado de TI, minhas habilidades técnicas e de comunicação foram reconhecidas, permitindo-me liderar a equipe de desenvolvimento. Este trabalho voluntário tem sido uma jornada inspiradora, aplicando minhas habilidades em um contexto que alinha tecnologia e impacto social.
-
-Um dos maiores desafios que enfrentei foi trabalhar com um sistema legado de clínicas e hospitais, implementando funcionalidades como videoconferência e gestão de medicamentos. Apesar de os projetos ainda estarem em construção, cada passo é uma vitória e um aprendizado.
-
-Manter-me atualizado é uma prioridade; dedico-me a estudar diariamente, explorando novas tecnologias, boas práticas e contribuindo para projetos open source. Além das habilidades técnicas, valorizo soft skills como trabalho em equipe, comunicação e liderança.
-
-Olhando para o futuro, aspiro a continuar crescendo, contribuindo para projetos de alta escalabilidade e tornando-me uma referência na área de backend, tanto em contextos nacionais quanto internacionais.
+🔹 Principais habilidades: Node.js, TypeScript, C#, .NET, SQL Server, API Development
+🔹 Interesses: Arquitetura de Software | Escalabilidade | Cloud Computing | Modernização de Sistemas
 
 ### GitHub Stats ⚡
 <div>
