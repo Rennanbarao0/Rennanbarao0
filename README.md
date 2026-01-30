@@ -1,17 +1,3 @@
-Sou um desenvolvedor backend em início de carreira, com experiência em Node.js, TypeScript, C#, .NET e SQL Server. Tenho interesse em arquitetura escalável, clean code e modernização de sistemas legados, buscando sempre melhorar a performance e a qualidade do código.
-
-Minha jornada na tecnologia começou com estudos autodidatas e projetos acadêmicos, e desde então venho aprimorando minhas habilidades no desenvolvimento de APIs e sistemas backend. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) e continuo me capacitando por meio de cursos e projetos práticos.
-
-
-### GitHub Stats ⚡
-<div>
-<a href="https://github.com/Rennanbarao0">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennanbarao0&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rennanbarao0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<!--    
-
 ### Olá, eu sou o Rennan, um desenvolvedor BackEnd apaixonado por tecnologia!
 
 <div style="display: inline_block"><br>
